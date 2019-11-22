@@ -1,0 +1,248 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v0.9.36",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "name" : "Curve"
+        },
+        {
+            "name" : "Curve.001"
+        },
+        {
+            "name" : "Curve.002"
+        },
+        {
+            "name" : "Curve.003"
+        },
+        {
+            "name" : "Curve.004"
+        },
+        {
+            "name" : "Curve.005"
+        },
+        {
+            "name" : "Curve.006"
+        },
+        {
+            "name" : "Curve.007"
+        },
+        {
+            "name" : "Curve.008"
+        },
+        {
+            "name" : "Curve.009"
+        },
+        {
+            "name" : "Curve.010"
+        },
+        {
+            "name" : "Curve.011"
+        },
+        {
+            "name" : "Curve.012"
+        },
+        {
+            "name" : "Curve.013"
+        },
+        {
+            "name" : "Curve.014"
+        },
+        {
+            "name" : "Curve.015"
+        },
+        {
+            "name" : "Curve.016"
+        },
+        {
+            "name" : "Curve.017"
+        },
+        {
+            "name" : "Curve.018"
+        },
+        {
+            "name" : "Curve.019"
+        },
+        {
+            "name" : "Curve.020"
+        },
+        {
+            "name" : "Curve.021"
+        },
+        {
+            "name" : "Curve.022"
+        },
+        {
+            "name" : "Curve.023"
+        },
+        {
+            "name" : "Curve.024"
+        },
+        {
+            "name" : "Curve.025"
+        },
+        {
+            "name" : "Curve.026"
+        },
+        {
+            "name" : "Curve.027"
+        },
+        {
+            "name" : "Curve.028"
+        },
+        {
+            "name" : "Curve.029"
+        },
+        {
+            "name" : "Curve.030"
+        },
+        {
+            "name" : "Curve.031"
+        },
+        {
+            "name" : "Curve.032"
+        },
+        {
+            "name" : "Curve.033"
+        },
+        {
+            "name" : "Curve.034"
+        },
+        {
+            "name" : "Curve.035"
+        },
+        {
+            "name" : "Curve.036"
+        },
+        {
+            "name" : "Curve.037"
+        },
+        {
+            "name" : "Curve.038"
+        },
+        {
+            "name" : "Curve.039"
+        },
+        {
+            "name" : "Curve.040"
+        },
+        {
+            "name" : "Curve.041"
+        },
+        {
+            "name" : "Curve.042"
+        },
+        {
+            "name" : "Curve.043"
+        },
+        {
+            "name" : "Curve.044"
+        },
+        {
+            "name" : "Curve.045"
+        },
+        {
+            "name" : "Curve.046"
+        },
+        {
+            "name" : "Curve.047"
+        },
+        {
+            "name" : "Curve.048"
+        },
+        {
+            "name" : "Curve.049"
+        },
+        {
+            "name" : "Curve.050"
+        },
+        {
+            "name" : "Curve.051"
+        },
+        {
+            "name" : "Curve.052"
+        },
+        {
+            "name" : "Curve.053"
+        },
+        {
+            "name" : "Curve.054"
+        },
+        {
+            "name" : "Curve.055"
+        },
+        {
+            "name" : "Curve.056"
+        },
+        {
+            "name" : "Curve.057"
+        }
+    ]
+}
